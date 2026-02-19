@@ -1,0 +1,124 @@
+{
+  "titolo": "Esercizio 5: La Spesa degli OKR",
+  "sottotitolo": "100 punti. 6 OKR. Troppe idee. Impara a dire NO alle cose giuste.",
+  "icona_esercizio": "💰",
+  "carte": [
+    {
+      "titolo": "Quick Reference - Budget Choices",
+      "icona": "📋",
+      "emoji": "📋",
+      "tipo": "Reference",
+      "testo": "<strong>Budget: 120 crediti totali</strong><br><br><strong>OKR Base:</strong><br>A. Churn (35cr) | B. Nuovo prodotto (45cr) | C. Enterprise (40cr)<br>D. Tech infra (30cr) | E. Brand (25cr) | F. Time-to-value (25cr)<br><br><strong>OKR Avanzati:</strong><br>G. AI nel prodotto (50cr) - ATTENZIONE<br>H. Efficienza operativa (20cr) - Sottovalutato<br><br><strong>Hiring:</strong> +10cr/risorsa, ramp-up 2 mesi",
+      "flavor": "\"Le scelte difficili sono quelle che contano. Easy mode non esiste nel budgeting.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "Spiegazione Esercizio",
+      "icona": "📜",
+      "emoji": "📜",
+      "tipo": "Istruzioni",
+      "testo": "<strong>Obiettivo:</strong> Massimizzare impatto con risorse limitate.<br><br><strong>Setup:</strong> Ogni tavolo ha 120 crediti e 6 possibili OKR. Puoi assumere risorse mancanti.<br><br><strong>Come si gioca (40 min):</strong><br>1. <strong>Valutazione (15 min):</strong> Leggete OKR e carta Azienda, discutete vincoli<br>2. <strong>Scelta (15 min):</strong> Decidete OKR + eventuali assunzioni (max 120cr)<br>3. <strong>Debrief (10 min):</strong> Spiegate scelte, sacrifici, e perché avete assunto o no",
+      "flavor": "\"Budgeting è l'arte di dire no alle cose belle per dire sì alle cose essenziali.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "Karma Inc. - Chi Siamo",
+      "icona": "🏢",
+      "emoji": "🏢",
+      "tipo": "Azienda",
+      "testo": "<strong>Karma Inc.</strong> - SaaS B2B (2 anni)<br>MRR: €200k | Runway: 12 mesi | Churn: 12%<br><br><strong>Team (25 persone):</strong><br>• 10 Dev (3 senior, 7 mid/junior)<br>• 2 PM<br>• 3 Sales<br>• 2 Marketing | 2 Designer | 4 CS | 2 Ops<br><br><strong>Disponibile per OKR (60% team):</strong><br>6 Dev | 1 PM | 2 Sales | 1 Marketing | 1 Designer<br><br><strong>CEO:</strong> 'Dobbiamo scegliere bene. Non possiamo fare tutto.'",
+      "flavor": "\"Con 12 mesi di runway e churn alto, ogni scelta conta. Doppiamente.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "Hiring: Assumere Risorse Mancanti",
+      "icona": "👥",
+      "emoji": "💼",
+      "tipo": "Meccanica",
+      "testo": "<strong>Puoi assumere risorse mancanti:</strong><br><br>💰 <strong>Costo:</strong> 10 crediti per risorsa<br>⏱️ <strong>Ramp-up:</strong> 2 mesi per produttività piena<br>📅 <strong>Impatto OKR:</strong> Se OKR dura 6 mesi, risorsa contribuisce solo 4 mesi<br><br><strong>Domande da porsi:</strong><br>• Vale il costo ricorrente (stipendio)?<br>• Il ritardo compromette l'OKR?<br>• Alternative senza assumere?",
+      "flavor": "\"Assumere è facile. Assumere la persona giusta al momento giusto? Quella è strategia.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "Esempio di Scelta Bilanciata",
+      "icona": "✅",
+      "emoji": "💡",
+      "tipo": "Esempio",
+      "testo": "<strong>Budget: 120cr</strong><br><br><strong>Scelte:</strong><br>• OKR A (Churn): 35cr ✓<br>• OKR C (Enterprise): 40cr ✓<br>• OKR F (Time-to-value): 25cr ✓<br>• Assumo 1 PM: +10cr ✓<br><strong>Totale: 110cr</strong><br><br><strong>Perché assumere?</strong> Senza 2° PM non posso fare F. Time-to-value è foundation per crescita.<br><br><strong>Trade-off:</strong> Ramp-up 2 mesi ritarda F, ma ne vale la pena. Sacrifico nuovo prodotto e brand per focus su retention + enterprise.",
+      "flavor": "\"Scegliere cosa NON fare è difficile quanto scegliere cosa fare. Forse di più.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "OKR A: Ridurre Churn Drammaticamente",
+      "icona": "1",
+      "emoji": "🚪",
+      "tipo": "OKR Disponibile",
+      "testo": "<strong>Obiettivo:</strong> Ridurre churn dal 12% al 5%<br><strong>KR1:</strong> Involuntary churn -70%<br><strong>KR2:</strong> Retention 12m: 50%→75%<br><strong>KR3:</strong> Support response: 24h→2h<br><br>💰 <strong>Costo:</strong> 35 crediti<br>🎯 <strong>Tipo:</strong> Roofshot (70-80%)<br>📈 <strong>Impatto:</strong> +€500k ARR salvato/anno<br>⚡ <strong>Risorse:</strong> 2 dev, 1 PM, CS team (6 mesi)",
+      "flavor": "\"Salvare clienti costa meno che trovarne di nuovi. Ma nessuno lo dice al marketing.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "OKR C: Espandere Enterprise",
+      "icona": "3",
+      "emoji": "🏢",
+      "tipo": "OKR Disponibile",
+      "testo": "<strong>Obiettivo:</strong> Revenue enterprise 20%→45%<br><strong>KR1:</strong> 15 deal >€50k ARR chiusi<br><strong>KR2:</strong> Sales cycle: 6m→3m<br><strong>KR3:</strong> Win rate enterprise: 15%→30%<br><br>💰 <strong>Costo:</strong> 40 crediti<br>🎯 <strong>Tipo:</strong> Roofshot (70-80%)<br>📈 <strong>Impatto:</strong> +€750k ARR/anno<br>⚡ <strong>Risorse:</strong> 2 sales, 2 dev (SSO/RBAC), 1 CS (9 mesi)",
+      "flavor": "\"Enterprise: deal lenti come lumache ma grossi come elefanti. Vale l'attesa.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "OKR B: Lanciare Nuovo Prodotto",
+      "icona": "2",
+      "emoji": "🚀",
+      "tipo": "OKR Disponibile",
+      "testo": "<strong>Obiettivo:</strong> Prodotto B a €100k MRR<br><strong>KR1:</strong> 500 beta users, feedback >8/10<br><strong>KR2:</strong> 50 paying customers in 3m<br><strong>KR3:</strong> €100k MRR entro Q4<br><br>💰 <strong>Costo:</strong> 45 crediti<br>🎯 <strong>Tipo:</strong> Moonshot (30-40%)<br>📈 <strong>Impatto:</strong> Nuovo revenue stream (ALTO RISCHIO)<br>⚡ <strong>Risorse:</strong> 4 dev, 1 PM, 1 design, marketing (12 mesi)",
+      "flavor": "\"Nuovo prodotto: moonshot preferito dei founder, incubo preferito dei CFO.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "OKR F: Ridurre Time-to-Value",
+      "icona": "6",
+      "emoji": "⚡",
+      "tipo": "OKR Disponibile",
+      "testo": "<strong>Obiettivo:</strong> Valore in 24h vs 7 giorni<br><strong>KR1:</strong> Time-to-first-value: 7d→1d<br><strong>KR2:</strong> Setup completion: 40%→75%<br><strong>KR3:</strong> Retention D7: 25%→45%<br><br>💰 <strong>Costo:</strong> 25 crediti<br>🎯 <strong>Tipo:</strong> Roofshot (70-80%)<br>📈 <strong>Impatto:</strong> Conversion +30%, foundation crescita<br>⚡ <strong>Risorse:</strong> 1 PM, 2 dev, 1 designer (4 mesi)",
+      "flavor": "\"Quando l'utente dice 'ah, ecco perché' è il momento in cui diventa cliente pagante.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "OKR D: Tech Infra e Debito Tecnico",
+      "icona": "4",
+      "emoji": "🏗️",
+      "tipo": "OKR Disponibile",
+      "testo": "<strong>Obiettivo:</strong> Piattaforma scalabile e affidabile<br><strong>KR1:</strong> Uptime 99.5%→99.9%<br><strong>KR2:</strong> MTTR: 4h→1h<br><strong>KR3:</strong> Deploy freq: 1/week→5/day<br><br>💰 <strong>Costo:</strong> 30 crediti<br>🎯 <strong>Tipo:</strong> Roofshot (70-80%)<br>📈 <strong>Impatto:</strong> Abilitatore (no revenue diretto)<br>⚡ <strong>Risorse:</strong> 3 dev senior, 1 DevOps (6 mesi)",
+      "flavor": "\"Nessuno nota l'infra quando funziona. Tutti notano quando non funziona. Scegli saggiamente.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "OKR E: Brand Awareness Massiva",
+      "icona": "5",
+      "emoji": "📢",
+      "tipo": "OKR Disponibile",
+      "testo": "<strong>Obiettivo:</strong> Brand riconoscibile nel settore<br><strong>KR1:</strong> 50 menzioni blog/media settore<br><strong>KR2:</strong> 100k follower social (+200%)<br><strong>KR3:</strong> 10 speaking slot conferenze<br><br>💰 <strong>Costo:</strong> 25 crediti<br>🎯 <strong>Tipo:</strong> Moonshot (30-40%)<br>📈 <strong>Impatto:</strong> Awareness (difficile misurare ROI)<br>⚡ <strong>Risorse:</strong> 1 marketing, 1 content, budget ads (6 mesi)",
+      "flavor": "\"Brand awareness senza conversion è come essere famoso su un'isola deserta. Bello ma inutile.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "OKR G: Integrare AI nel Prodotto",
+      "icona": "7",
+      "emoji": "🤖",
+      "tipo": "OKR Disponibile - TRAPPOLA",
+      "testo": "<strong>Obiettivo:</strong> Implementare AI/ML per leadership innovazione<br><strong>KR1:</strong> Integrare 3 feature AI in prodotto<br><strong>KR2:</strong> 80% utenti usa almeno 1 feature AI<br><strong>KR3:</strong> Menzioni 'AI' in 20 articoli stampa<br><br>💰 <strong>Costo:</strong> 50 crediti<br>🎯 <strong>Tipo:</strong> Moonshot (20-30%)<br>📈 <strong>Impatto:</strong> Differenziazione, possibile nuovo revenue<br>⚡ <strong>Risorse:</strong> 3 dev (2 senior), 1 PM, 1 Data Scientist DA ASSUMERE (+10cr, 12 mesi)",
+      "flavor": "\"AI è sexy. Ma implementare è un progetto, non un outcome. E serve competenza che non hai.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "OKR H: Efficienza Operativa",
+      "icona": "8",
+      "emoji": "⚙️",
+      "tipo": "OKR Disponibile - SOTTOVALUTATO",
+      "testo": "<strong>Obiettivo:</strong> Ottimizzare efficienza per sostenibilità<br><strong>KR1:</strong> Ridurre costi operativi del 15%<br><strong>KR2:</strong> Margine lordo aumenta dal 60% al 68%<br><strong>KR3:</strong> Runway passa da 12 a 16 mesi<br><br>💰 <strong>Costo:</strong> 20 crediti<br>🎯 <strong>Tipo:</strong> Roofshot (80-90%)<br>📈 <strong>Impatto:</strong> +4 mesi runway, foundation sostenibilità<br>⚡ <strong>Risorse:</strong> 1 dev, operations team (4 mesi)",
+      "flavor": "\"Non sexy. Ma allunga il runway quando ne hai solo 12 mesi. A volte sopravvivere è vincere.\"",
+      "classe": "okr-budget"
+    }
+  ]
+}

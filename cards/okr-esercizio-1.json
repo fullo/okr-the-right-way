@@ -1,0 +1,241 @@
+{
+  "titolo": "Esercizio 1: Output o Outcome? Speed Classification",
+  "sottotitolo": "Riconosci task camuffati da risultati. Hai 15 minuti, vince chi ne azzecca di più.",
+  "icona_esercizio": "🎯",
+  "carte": [
+    {
+      "titolo": "Quick Reference",
+      "icona": "📋",
+      "emoji": "📋",
+      "tipo": "Reference",
+      "testo": "<strong>1.</strong> Rilasciare 5 feature: OUTPUT<br><strong>2.</strong> Completare roadmap: OUTPUT<br><strong>3.</strong> Pubblicare 20 blog post: OUTPUT<br><strong>4.</strong> Fare 100 demo: OUTPUT<br><strong>5.</strong> Assumere 3 sviluppatori: OUTPUT<br><strong>6.</strong> Implementare CRM: OUTPUT<br><strong>7.</strong> Ridurre bug del 30%: OUTPUT (mascherato)<br><strong>8.</strong> Migliorare onboarding: OUTPUT (mascherato)<br><strong>9.</strong> Aumentare brand awareness: OUTPUT (mascherato)<br><strong>10.</strong> Contattare tutti i lead: OUTPUT<br><strong>11.</strong> Completare performance review: OUTPUT<br><strong>12.</strong> Lanciare strategia GTM: OUTPUT (mascherato)<br><strong>13.</strong> MTTR da 4h a 1h: OUTCOME<br><strong>14.</strong> Retention D7 dal 20% al 35%: OUTCOME<br><strong>15.</strong> Lead qualificati +40%, CAC <€50: OUTCOME<br><strong>16.</strong> Conversion 15%→25%: OUTCOME<br><strong>17.</strong> eNPS da 20 a 40: OUTCOME<br><strong>18.</strong> Churn dal 12% al 7%: OUTCOME",
+      "flavor": "\"Tutte le risposte in un colpo d'occhio. Ora convincete il tavolo che avete ragione!\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Spiegazione Esercizio",
+      "icona": "📜",
+      "emoji": "📜",
+      "tipo": "Istruzioni",
+      "testo": "<strong>Obiettivo:</strong> Classificare Key Results come Output o Outcome in modalità competitiva.<br><br><strong>Come si gioca (15 min):</strong><br>1. <strong>Classifica (7 min):</strong> In coppia, classificate 10 carte casuali<br>2. <strong>Tavolo (5 min):</strong> Allineamento sulle risposte<br>3. <strong>Scoring (3 min):</strong> Quick Reference per punteggio<br><br><strong>Vince:</strong> Tavolo con più risposte corrette. Pareggio? Chi finisce prima.",
+      "flavor": "\"Velocità + Precisione = Gloria. O almeno, bragging rights fino alla pausa.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Soluzioni 1-3",
+      "icona": "✅",
+      "emoji": "✅",
+      "tipo": "Soluzioni",
+      "testo": "<strong>1. Rilasciare 5 feature:</strong> OUTPUT<br>Conta cosa fai, non l'impatto sul business. <strong>Perché:</strong> Puoi rilasciare 5 feature che nessuno usa. <strong>Versione Outcome:</strong> 'Aumentare adoption delle nuove feature dal 20% al 50%'.<br><br><strong>2. Completare roadmap:</strong> OUTPUT<br>Attività interna senza misura di successo. <strong>Perché:</strong> Una roadmap bella non garantisce risultati. <strong>Versione Outcome:</strong> 'Aumentare allineamento team (survey) da 6/10 a 9/10'.<br><br><strong>3. Pubblicare 20 blog post:</strong> OUTPUT<br>Vanity metric classica. <strong>Perché:</strong> Scrivere tanto ≠ impatto. <strong>Versione Outcome:</strong> 'Generare 500 lead qualificati da traffico organico'.",
+      "flavor": "\"I primi tre: quando confondere attività con progresso diventa un'arte.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Soluzioni 4-6",
+      "icona": "✅",
+      "emoji": "✅",
+      "tipo": "Soluzioni",
+      "testo": "<strong>4. Fare 100 demo:</strong> OUTPUT<br>Conta incontri, non conversioni. <strong>Perché:</strong> 100 demo con 0 conversioni = spreco. <strong>Versione Outcome:</strong> 'Conversion da demo a deal passa dal 10% al 25%'.<br><br><strong>5. Assumere 3 sviluppatori:</strong> OUTPUT<br>Hiring è un mezzo, non un fine. <strong>Perché:</strong> 3 persone sbagliate peggio di 0. <strong>Versione Outcome:</strong> 'Ridurre lead time features da 6 sett a 2 sett'.<br><br><strong>6. Implementare CRM:</strong> OUTPUT<br>Progetto IT travestito da OKR. <strong>Perché:</strong> Il CRM implementato non garantisce risultati. <strong>Versione Outcome:</strong> 'Aumentare win rate da 15% a 30% con migliore tracking'.",
+      "flavor": "\"Scenari 4-6: l'arte di confondere mezzi con fini. Anche i migliori ci cascano.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Soluzioni 7-9 (I Mascherati)",
+      "icona": "✅",
+      "emoji": "⚠️",
+      "tipo": "Soluzioni",
+      "testo": "<strong>7. Ridurre bug del 30%:</strong> OUTPUT MASCHERATO<br>Sembra outcome ma conta attività (chiudere bug). <strong>Trap:</strong> Riduci bug dove nessuno va. <strong>Fix:</strong> 'Ridurre ticket support per bug critici del 50%' (misura impatto su cliente).<br><br><strong>8. Migliorare onboarding:</strong> OUTPUT MASCHERATO<br>Troppo vago, non misurabile. <strong>Trap:</strong> 'Migliorare' senza numeri = fuffa. <strong>Fix:</strong> 'Time-to-first-value da 7gg a 2gg'.<br><br><strong>9. Aumentare brand awareness:</strong> OUTPUT MASCHERATO<br>Vanity metric mascherata da strategia. <strong>Trap:</strong> Awareness senza conversion = spreco. <strong>Fix:</strong> 'Aumentare lead inbound qualificati del 60%'.",
+      "flavor": "\"I mascherati: sembrano outcome, odorano di outcome, ma sono output. Insidiosissimi.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Soluzioni 10-12",
+      "icona": "✅",
+      "emoji": "✅",
+      "tipo": "Soluzioni",
+      "testo": "<strong>10. Contattare tutti i lead:</strong> OUTPUT<br>Quantità vs qualità. <strong>Perché:</strong> Contatto ≠ conversione. <strong>Versione Outcome:</strong> 'Conversion lead-to-opportunity dal 10% al 20%'.<br><br><strong>11. Completare performance review:</strong> OUTPUT<br>Compliance, non crescita. <strong>Perché:</strong> Spuntare caselle ≠ sviluppare persone. <strong>Versione Outcome:</strong> 'Aumentare promotion rate da 5% a 15%'.<br><br><strong>12. Lanciare strategia GTM:</strong> OUTPUT MASCHERATO<br>Progetto travestito da strategia. <strong>Trap:</strong> Lanciare ≠ funzionare. <strong>Fix:</strong> 'Raggiungere €200k pipeline da nuovo GTM in 90gg'.",
+      "flavor": "\"Scenari 10-12: quando 'fatto' diventa più importante di 'servito a qualcosa'.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Soluzioni 13-15 (Gli Outcome Veri)",
+      "icona": "✅",
+      "emoji": "💚",
+      "tipo": "Soluzioni",
+      "testo": "<strong>13. MTTR da 4h a 1h:</strong> OUTCOME ✓<br>Misura impatto su business (downtime). <strong>Perché vince:</strong> Tempo di recovery = soldi salvati.<br><br><strong>14. Retention D7 dal 20% al 35%:</strong> OUTCOME ✓<br>Misura comportamento utente, non nostro lavoro. <strong>Perché vince:</strong> Retention = north star metric.<br><br><strong>15. Lead qualificati +40%, CAC <€50:</strong> OUTCOME ✓<br>Due metriche: quantità E qualità. <strong>Perché vince:</strong> Lead + efficienza costi = crescita sostenibile.",
+      "flavor": "\"Questi sono outcome veri. Notate la differenza? Non dicono COSA fai, dicono COSA ottieni.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Soluzioni 16-18 (Gli Outcome Veri)",
+      "icona": "✅",
+      "emoji": "💚",
+      "tipo": "Soluzioni",
+      "testo": "<strong>16. Conversion 15%→25%:</strong> OUTCOME ✓<br>Misura efficacia sales, non attività. <strong>Perché vince:</strong> Conversion rate = qualità del processo.<br><br><strong>17. eNPS da 20 a 40:</strong> OUTCOME ✓<br>Misura soddisfazione reale, non programmi HR. <strong>Perché vince:</strong> eNPS = leading indicator di retention.<br><br><strong>18. Churn dal 12% al 7%:</strong> OUTCOME ✓<br>La metrica che fa dormire i founder la notte. <strong>Perché vince:</strong> Churn = survival metric.",
+      "flavor": "\"Gli ultimi tre outcome: quando i numeri raccontano se stai vincendo o perdendo.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Rilasciare 5 feature entro Q2",
+      "icona": "1",
+      "emoji": "🚀",
+      "tipo": "Key Result - Dev",
+      "testo": "Il team Engineering deve consegnare almeno 5 nuove funzionalità complete entro la fine del secondo trimestre.",
+      "flavor": "\"Conta le feature come se fossero medaglie. Peccato che nessuno chieda se qualcuno le userà.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Retention D7 dal 20% al 35%",
+      "icona": "14",
+      "emoji": "📈",
+      "tipo": "Key Result - PM",
+      "testo": "Aumentare la retention degli utenti al settimo giorno dal 20% al 35%, misurando utenti attivi che tornano.",
+      "flavor": "\"La vera domanda non è quanti arrivano. È quanti restano quando scoprono chi sei davvero.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Migliorare l'onboarding utente",
+      "icona": "8",
+      "emoji": "🎓",
+      "tipo": "Key Result - PM",
+      "testo": "Rendere il processo di onboarding più fluido e intuitivo per i nuovi utenti del prodotto.",
+      "flavor": "\"'Migliorare' è il verbo preferito di chi non vuole impegnarsi su numeri concreti.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Pubblicare 20 blog post",
+      "icona": "3",
+      "emoji": "✍️",
+      "tipo": "Key Result - Marketing",
+      "testo": "Il team Marketing deve scrivere e pubblicare almeno 20 articoli sul blog aziendale durante il trimestre.",
+      "flavor": "\"Scrivere tanto è facile. Scrivere qualcosa che qualcuno leggerà? Quella è un'altra storia.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Lead qualificati +40%, CAC <€50",
+      "icona": "15",
+      "emoji": "💰",
+      "tipo": "Key Result - Marketing",
+      "testo": "Incrementare del 40% i lead qualificati mantenendo il costo di acquisizione sotto i 50 euro per lead.",
+      "flavor": "\"Lead a basso costo che convertono: il santo graal del marketing. O semplicemente un buon piano.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Ridurre i bug del 30%",
+      "icona": "7",
+      "emoji": "🐛",
+      "tipo": "Key Result - Dev",
+      "testo": "Il team Engineering deve ridurre il numero totale di bug aperti del 30% rispetto al trimestre precedente.",
+      "flavor": "\"Ridurre i bug è nobile. Ma se riduci quelli nel modulo che nessuno usa, hai davvero fatto qualcosa?\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Churn rate dal 12% al 7%",
+      "icona": "18",
+      "emoji": "🚪",
+      "tipo": "Key Result - C-level",
+      "testo": "Ridurre il tasso di abbandono clienti (churn rate) dal 12% al 7% su base mensile.",
+      "flavor": "\"Ogni cliente che se ne va porta con sé una storia. Assicurati che non diventi un bestseller su Twitter.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Completare la roadmap del prodotto",
+      "icona": "2",
+      "emoji": "📋",
+      "tipo": "Key Result - PM",
+      "testo": "Finalizzare e pubblicare la roadmap di prodotto per i prossimi 12 mesi con tutte le iniziative prioritizzate.",
+      "flavor": "\"Un piano perfetto è come un'opera d'arte. Bellissima da guardare, raramente sopravvive al contatto con la realtà.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Aumentare la brand awareness",
+      "icona": "9",
+      "emoji": "📢",
+      "tipo": "Key Result - Marketing",
+      "testo": "Incrementare la visibilità del brand attraverso campagne social e content marketing.",
+      "flavor": "\"Brand awareness: la metrica preferita da chi vuole sembrare strategico senza misurare nulla.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Conversion Lead→Opportunity dal 15% al 25%",
+      "icona": "16",
+      "emoji": "🔄",
+      "tipo": "Key Result - Sales",
+      "testo": "Aumentare il tasso di conversione da lead a opportunity qualificata dal 15% al 25%.",
+      "flavor": "\"Trasformare curiosi in interessati è un'arte. Trasformare interessati in paganti è scienza.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Assumere 3 sviluppatori Senior",
+      "icona": "5",
+      "emoji": "👥",
+      "tipo": "Key Result - HR",
+      "testo": "HR deve chiudere le posizioni aperte assumendo almeno 3 sviluppatori Senior entro la fine del trimestre.",
+      "flavor": "\"Assumere è come fare shopping. Facile riempire il carrello, difficile trovare quello che cerchi davvero.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Ridurre MTTR da 4h a 1h",
+      "icona": "13",
+      "emoji": "⏱️",
+      "tipo": "Key Result - Dev",
+      "testo": "Diminuire il Mean Time To Recovery degli incidenti critici da una media di 4 ore a 1 ora.",
+      "flavor": "\"Quando il sistema va giù, ogni minuto è un'eternità. Per i clienti, per il business, per il tuo sonno.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Lanciare la strategia go-to-market",
+      "icona": "12",
+      "emoji": "🎯",
+      "tipo": "Key Result - C-level",
+      "testo": "Finalizzare e comunicare la nuova strategia di go-to-market a tutti i team commerciali.",
+      "flavor": "\"Lanciare una strategia è come lanciare un boomerang. Se torna indietro, hai sbagliato qualcosa.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Contattare tutti i lead del database",
+      "icona": "10",
+      "emoji": "📞",
+      "tipo": "Key Result - Sales",
+      "testo": "Completare il contatto di tutti i 500 lead presenti nel database CRM entro fine trimestre.",
+      "flavor": "\"Contattare tutti è democrazia. Convertire qualcuno è business. Piccola differenza.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "eNPS da 20 a 40 entro Q3",
+      "icona": "17",
+      "emoji": "❤️",
+      "tipo": "Key Result - HR",
+      "testo": "Migliorare l'Employee Net Promoter Score da 20 a 40 punti entro la fine del terzo trimestre.",
+      "flavor": "\"I dipendenti felici consigliano l'azienda agli amici. Quelli infelici la consigliano ai nemici.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Implementare il nuovo CRM",
+      "icona": "6",
+      "emoji": "🏢",
+      "tipo": "Key Result - C-level",
+      "testo": "Completare la migrazione al nuovo sistema CRM e formare tutti i team entro la fine del Q2.",
+      "flavor": "\"Cambiare sistema è come traslocare casa. Sai quando inizi, non sai quando finirà il caos.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Fare 100 demo del prodotto",
+      "icona": "4",
+      "emoji": "🎤",
+      "tipo": "Key Result - Sales",
+      "testo": "Ogni sales deve completare almeno 100 demo individuali del prodotto ai potenziali clienti.",
+      "flavor": "\"Ripetere lo stesso discorso 100 volte ti fa diventare bravo. O pazzo. A volte entrambi.\"",
+      "classe": "okr-output-outcome"
+    },
+    {
+      "titolo": "Completare le performance review",
+      "icona": "11",
+      "emoji": "📋",
+      "tipo": "Key Result - HR",
+      "testo": "Eseguire e documentare il processo di performance review per tutti i dipendenti entro la scadenza.",
+      "flavor": "\"Spuntare caselle è terapeutico. Sviluppare persone è difficile. Indovina quale preferiamo.\"",
+      "classe": "okr-output-outcome"
+    }
+  ]
+}

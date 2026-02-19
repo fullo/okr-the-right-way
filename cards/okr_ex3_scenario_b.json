@@ -1,0 +1,88 @@
+{
+  "titolo": "Esercizio 3: OKR Review - Spot the Red Flags",
+  "sottotitolo": "È metà trimestre. Gli OKR sembrano ok. Ma guarda meglio. Qualcosa non quadra.",
+  "icona_esercizio": "🚩",
+  "carte": [
+    {
+      "titolo": "Quick Reference - Red Flags Comuni",
+      "icona": "📋",
+      "emoji": "📋",
+      "tipo": "Reference",
+      "testo": "<strong>Red Flags da cercare:</strong><br>🚩 Task camuffati da KR ('provare', 'identificare', 'implementare')<br>🚩 Output invece di Outcome<br>🚩 Trust level basso senza azioni correttive<br>🚩 KR non misurano l'obiettivo<br>🚩 Metriche vanity (follower, pageviews)<br>🚩 Troppe iniziative, nessun focus<br>🚩 Nessun progresso ma 'tutto ok'<br>🚩 KR contraddittori tra loro",
+      "flavor": "\"In ogni review OKR ben fatta emerge almeno un red flag. Se non ne vedi nessuno, guarda meglio.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "Spiegazione Esercizio",
+      "icona": "📜",
+      "emoji": "📜",
+      "tipo": "Istruzioni",
+      "testo": "<strong>Obiettivo:</strong> Identificare problemi in report OKR a metà trimestre e proporre fix.<br><br><strong>Come si gioca (30 min):</strong><br>1. <strong>Lettura (5 min):</strong> Carta Azienda + Carta Scenario<br>2. <strong>Pesca (2 min):</strong> 3 carte OKR random dal mazzo dello scenario<br>3. <strong>Analisi (20 min):</strong> Identificate red flags, problemi, gestione fallace<br>4. <strong>Remediation (3 min):</strong> Se necessario, definite piano correttivo",
+      "flavor": "\"Review OKR è l'arte di fare domande scomode prima che diventino problemi costosi.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "Karma Inc. - Chi Siamo",
+      "icona": "🏢",
+      "emoji": "🏢",
+      "tipo": "Azienda",
+      "testo": "<strong>Karma Inc.</strong> - SaaS B2B (2 anni)<br>MRR: €200k | Runway: 12 mesi | Churn: 12%<br><br><strong>Team (25 persone):</strong><br>• 10 Dev (3 senior, 7 mid/junior)<br>• 2 PM<br>• 3 Sales<br>• 2 Marketing | 2 Designer | 4 CS | 2 Ops<br><br><strong>Disponibile per OKR (60% team):</strong><br>6 Dev | 1 PM | 2 Sales | 1 Marketing | 1 Designer<br><br><strong>CEO:</strong> 'Dobbiamo scegliere bene. Non possiamo fare tutto.'",
+      "flavor": "\"Con 12 mesi di runway e churn alto, ogni scelta conta. Doppiamente.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "Scenario B: Pressione Crescente",
+      "icona": "📅",
+      "emoji": "⚠️",
+      "tipo": "Scenario Q2",
+      "testo": "<strong>Q2 Mid-Point (15 Maggio)</strong><br>MRR: €205k (+2.5% sotto target) | Churn: 13.5% (+1.5%)<br>Team: 24 (-1 sales lasciato per competitor) | Runway: 9 mesi<br><br><strong>Contesto:</strong> FasterCo ha lanciato QuickSync. Support ticket +40%. CEO: \"Focus totale su retention. Stop al non essenziale.\"<br><br><strong>Warning Signs:</strong> 2 enterprise prospect scelti competitor. CAC €280→€380. Mood team: tensione alta.<br><br>🔗 <strong>QR Code:</strong> Analisi completa scenario",
+      "flavor": "\"Sotto pressione, i team moltiplicano le iniziative invece di fare focus brutale. È il momento della verità.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR B1: Inversione Trend Churn",
+      "icona": "1",
+      "emoji": "🎯",
+      "tipo": "Churn Reduction",
+      "testo": "<strong>OBJ:</strong> Invertire trend churn e stabilizzare revenue base<br><br><strong>KR1:</strong> Monthly churn: 13.5%→8% (ora: 12.8%)<br>Trust: MEDIA | 📅 14/5<br>⚙️ Churn analysis per cohort, at-risk playbook, win-back top 10 churned<br><br><strong>KR2:</strong> Involuntary churn: 4.2%→1.5% (ora: 3.6%)<br>Trust: ALTA | 📅 15/5<br>⚙️ Payment retry logic, billing communication, dunning automation<br><br><strong>KR3:</strong> Health score coverage: 60%→95% (ora: 78%)<br>Trust: ALTA | 📅 13/5<br>⚙️ Usage tracking, automated health score, CS intervention triggers<br><br>👤 VP Customer Success",
+      "flavor": "\"Fermare il bleeding è il primo passo. Capire perché sanguiniamo è il secondo. Entrambi sono urgenti.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR B2: Feature Parità Competitor",
+      "icona": "2",
+      "emoji": "⚔️",
+      "tipo": "Product Market Fit",
+      "testo": "<strong>OBJ:</strong> Feature parità con FasterCo per fermare bleeding competitive<br><br><strong>KR1:</strong> QuickSync equivalent pronto (ora: design phase)<br>Trust: BASSA | 📅 7/5<br>⚙️ Spec QuickSync clone, dev allocation 3 engineer, Q3 launch target<br><br><strong>KR2:</strong> Win-back prospect persi: 0%→25% (ora: 1 su 12, 8%)<br>Trust: BASSA | 📅 3/5<br>⚙️ Outreach campagna, feature comparison doc, discount 20%<br><br><strong>KR3:</strong> Competitive loss: 35%→15% (ora: 38%)<br>Trust: BASSA | 📅 29/4<br>⚙️ Battle card aggiornata, objection handling, sales training<br><br>👤 CPO + Sales Lead",
+      "flavor": "\"Inseguire i competitor è una strategia. Vincere con i propri punti di forza è un'altra. Quale stai facendo?\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR B3: Efficienza Operativa",
+      "icona": "3",
+      "emoji": "⚙️",
+      "tipo": "Operations & Efficiency",
+      "testo": "<strong>OBJ:</strong> Efficienza operativa per estendere runway sotto pressione<br><br><strong>KR1:</strong> CAC ridotto: €380→€250 (ora: €395)<br>Trust: BASSA | 📅 6/5<br>⚙️ Identificare canali inefficienti, testare organic, provare referral<br><br><strong>KR2:</strong> Support cost/ticket: €45→€28 (ora: €43)<br>Trust: MEDIA | 📅 11/5<br>⚙️ Implementare chatbot, espandere KB, provare async support<br><br><strong>KR3:</strong> Burn rate: €85k→€68k/mese (ora: €87k)<br>Trust: BASSA | 📅 1/5<br>⚙️ Analizzare spese, negoziare contratti, ottimizzare infra<br><br>👤 CFO + Operations",
+      "flavor": "\"Tagliare i costi è facile. Tagliare quelli giusti senza ammazzare la crescita è l'arte.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR B4: Pressione CS Team",
+      "icona": "4",
+      "emoji": "🆘",
+      "tipo": "Customer Support",
+      "testo": "<strong>OBJ:</strong> Ridurre pressione su CS e migliorare customer experience<br><br><strong>KR1:</strong> Ticket volume: 400→250/mese (ora: 380)<br>Trust: MEDIA | 📅 13/5<br>⚙️ Self-service KB, FAQ chatbot, ticket deflection automation<br><br><strong>KR2:</strong> First response: 14h→4h (ora: 11h)<br>Trust: ALTA | 📅 14/5<br>⚙️ Hired 1 CS agent, shift coverage, canned responses<br><br><strong>KR3:</strong> CSAT support: 6.2→8.5/10 (ora: 7.1)<br>Trust: ALTA | 📅 15/5<br>⚙️ Training empatia, follow-up survey, quality check<br><br>👤 CS Director",
+      "flavor": "\"Ridurre i ticket è un outcome. O solo un sintomo nascosto sotto il tappeto?\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR B5: Accelerazione Deal",
+      "icona": "5",
+      "emoji": "💼",
+      "tipo": "Revenue Recovery",
+      "testo": "<strong>OBJ:</strong> Accelerare chiusura deal per recuperare MRR gap vs target<br><br><strong>KR1:</strong> Deal chiusi: 6→18 fine Q2 (ora: 9 deal)<br>Trust: MEDIA | 📅 12/5<br>⚙️ Pipeline 24 opportunity, daily standup, incentive accelerator Q2<br><br><strong>KR2:</strong> Sales cycle: 4.5m→3m (ora: 5.1m)<br>Trust: BASSA | 📅 4/5<br>⚙️ Qualification MEDDIC strict, fast-track small, exec involvement<br><br><strong>KR3:</strong> Avg deal size: €15k→€22k (ora: €14k)<br>Trust: BASSA | 📅 10/5<br>⚙️ Upsell in sales, bundle pricing, enterprise tier positioning<br><br>👤 VP Sales",
+      "flavor": "\"Quando la matematica non torna, aumentare il target non risolve il problema.\"",
+      "classe": "okr-review"
+    }
+  ]
+}

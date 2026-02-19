@@ -1,0 +1,88 @@
+{
+  "titolo": "Esercizio 3: OKR Review - Spot the Red Flags",
+  "sottotitolo": "È metà trimestre. Gli OKR sembrano ok. Ma guarda meglio. Qualcosa non quadra.",
+  "icona_esercizio": "🚩",
+  "carte": [
+    {
+      "titolo": "Quick Reference - Red Flags Comuni",
+      "icona": "📋",
+      "emoji": "📋",
+      "tipo": "Reference",
+      "testo": "<strong>Red Flags da cercare:</strong><br>🚩 Task camuffati da KR ('provare', 'identificare', 'implementare')<br>🚩 Output invece di Outcome<br>🚩 Trust level basso senza azioni correttive<br>🚩 KR non misurano l'obiettivo<br>🚩 Metriche vanity (follower, pageviews)<br>🚩 Troppe iniziative, nessun focus<br>🚩 Nessun progresso ma 'tutto ok'<br>🚩 KR contraddittori tra loro",
+      "flavor": "\"In ogni review OKR ben fatta emerge almeno un red flag. Se non ne vedi nessuno, guarda meglio.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "Spiegazione Esercizio",
+      "icona": "📜",
+      "emoji": "📜",
+      "tipo": "Istruzioni",
+      "testo": "<strong>Obiettivo:</strong> Identificare problemi in report OKR a metà trimestre e proporre fix.<br><br><strong>Come si gioca (30 min):</strong><br>1. <strong>Lettura (5 min):</strong> Carta Azienda + Carta Scenario<br>2. <strong>Pesca (2 min):</strong> 3 carte OKR random dal mazzo dello scenario<br>3. <strong>Analisi (20 min):</strong> Identificate red flags, problemi, gestione fallace<br>4. <strong>Remediation (3 min):</strong> Se necessario, definite piano correttivo",
+      "flavor": "\"Review OKR è l'arte di fare domande scomode prima che diventino problemi costosi.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "Karma Inc. - Chi Siamo",
+      "icona": "🏢",
+      "emoji": "🏢",
+      "tipo": "Azienda",
+      "testo": "<strong>Karma Inc.</strong> - SaaS B2B (2 anni)<br>MRR: €200k | Runway: 12 mesi | Churn: 12%<br><br><strong>Team (25 persone):</strong><br>• 10 Dev (3 senior, 7 mid/junior)<br>• 2 PM<br>• 3 Sales<br>• 2 Marketing | 2 Designer | 4 CS | 2 Ops<br><br><strong>Disponibile per OKR (60% team):</strong><br>6 Dev | 1 PM | 2 Sales | 1 Marketing | 1 Designer<br><br><strong>CEO:</strong> 'Dobbiamo scegliere bene. Non possiamo fare tutto.'",
+      "flavor": "\"Con 12 mesi di runway e churn alto, ogni scelta conta. Doppiamente.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "Scenario C: Crescita Caotica",
+      "icona": "📅",
+      "emoji": "🎢",
+      "tipo": "Scenario Q2",
+      "testo": "<strong>Q2 Mid-Point (15 Maggio)</strong><br>MRR: €255k (+27.5%) | Churn: 11% (-1%)<br>Team: 30 (+5 in 6 settimane) | Runway: 11 mesi<br><br><strong>Contesto:</strong> 8 feature Q1 (3 inutilizzate). CS ticket +120%. Onboarding success 75%→55%. 4 OKR paralleli attivi. Board: \"Numeri buoni ma operational debt cresce.\"<br><br><strong>Warning Signs:</strong> 18 priority roadmap items. Meeting 2h→3.5h. Mood: adrenalina alta, burnout incipiente.<br><br>🔗 <strong>QR Code:</strong> Analisi completa scenario",
+      "flavor": "\"La crescita veloce maschera tutto. Finché non maschera più nulla. E a quel punto è tardi.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR C1: Onboarding Excellence",
+      "icona": "1",
+      "emoji": "🎯",
+      "tipo": "Customer Success",
+      "testo": "<strong>OBJ:</strong> Onboarding da collo di bottiglia a vantaggio competitivo<br><br><strong>KR1:</strong> Time-to-first-value: 8gg→3gg (ora: 7gg)<br>Trust: MEDIA | 📅 12/5<br>⚙️ Ridisegno wizard setup, tutorial interattivo, checklist progressiva<br><br><strong>KR2:</strong> Setup completion: 55%→80% (ora: 61%)<br>Trust: ALTA | 📅 14/5<br>⚙️ A/B test 2 flow, kill step inutili, gamification primi 3 task<br><br><strong>KR3:</strong> NPS nuovi D7: 28→45 (ora: 35)<br>Trust: MEDIA | 📅 15/5<br>⚙️ Survey automatica D7, fix top 3 friction, follow-up personalizzato<br><br>👤 CS Lead + Designer",
+      "flavor": "\"I primi 7 giorni determinano i prossimi 7 mesi. O fai innamorare l'utente subito, o lo perdi per sempre.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR C2: Lead Gen Scalabile",
+      "icona": "2",
+      "emoji": "🚀",
+      "tipo": "Marketing & Growth",
+      "testo": "<strong>OBJ:</strong> Motore lead generation prevedibile e scalabile<br><br><strong>KR1:</strong> Lead qualificati: 180→400/mese (ora: 195)<br>Trust: ALTA | 📅 8/5<br>⚙️ Provare 3 canali paid, testare copy varianti, identificare 2 influencer<br><br><strong>KR2:</strong> CAC <€300 (ora: €380)<br>Trust: BASSA | 📅 2/5<br>⚙️ Ottimizzare campagne, aumentare budget organico, provare referral<br><br><strong>KR3:</strong> Conversion landing: 2.1%→4.5% (ora: 2.3%)<br>Trust: MEDIA | 📅 14/5<br>⚙️ Implementare design nuovo, A/B test CTA, social proof<br><br>👤 Marketing Team",
+      "flavor": "\"Prevedibile significa ripetibile. Scalabile significa profittevole. Hai entrambi?\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR C3: Piattaforma 10x Scalabile",
+      "icona": "3",
+      "emoji": "🏗️",
+      "tipo": "Tech & Infrastructure",
+      "testo": "<strong>OBJ:</strong> Piattaforma pronta per 10x crescita entro fine anno<br><br><strong>KR1:</strong> Uptime: 99.2%→99.8% (ora: 99.4%)<br>Trust: MEDIO | 📅 10/5<br>⚙️ Migrate DB PostgreSQL, Redis cache, monitoring APM, alerting<br><br><strong>KR2:</strong> API p95: 850ms→200ms (ora: 780ms)<br>Trust: ALTO | 📅 13/5<br>⚙️ Refactor microservices, optimize queries, CDN, GraphQL<br><br><strong>KR3:</strong> Deploy freq: 2/week→daily (ora: 3/week)<br>Trust: BASSO | 📅 5/5<br>⚙️ CI/CD pipeline, Docker, k8s cluster, automated test, train team<br><br>👤 CTO + DevOps",
+      "flavor": "\"Scalare l'infrastruttura è engineering. Scalare senza rompere tutto è arte. Quale stai facendo?\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR C4: Riduzione Churn",
+      "icona": "4",
+      "emoji": "🎲",
+      "tipo": "Product & Retention",
+      "testo": "<strong>OBJ:</strong> Ridurre drasticamente churn e aumentare LTV clienti<br><br><strong>KR1:</strong> Feature adoption: 42%→70% (ora: 48%)<br>Trust: ALTA | 📅 14/5<br>⚙️ In-app tooltips, email drip education, product tour gamificato<br><br><strong>KR2:</strong> Session freq: 2.1→4/week (ora: 2.6/week)<br>Trust: ALTA | 📅 13/5<br>⚙️ Push notifications smart, weekly digest, return-to-task deeplinks<br><br><strong>KR3:</strong> Support ticket: 400→<250/mese (ora: 360)<br>Trust: MEDIA | 📅 15/5<br>⚙️ KB expansion, chatbot FAQ, video tutorial top 10<br><br>👤 Product Team",
+      "flavor": "\"Misurare l'attività è facile. Misurare l'impatto è difficile. Quale stai facendo?\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR C5: Espansione Enterprise",
+      "icona": "5",
+      "emoji": "💼",
+      "tipo": "Sales & Enterprise",
+      "testo": "<strong>OBJ:</strong> Segmento enterprise da 20% a 45% del revenue<br><br><strong>KR1:</strong> Deal enterprise: 4→12 (ora: 7 deal)<br>Trust: ALTA | 📅 14/5<br>⚙️ Pipeline 18 opp, assumere AE senior, sales deck ROI calculator<br><br><strong>KR2:</strong> ACV medio: €18k→€35k (ora: €24k)<br>Trust: MEDIA | 📅 10/5<br>⚙️ Upsell feature enterprise, packaging 3 tier, case study F500<br><br><strong>KR3:</strong> Sales cycle: 4.2m→2.5m (ora: 4.8m)<br>Trust: BASSA | 📅 6/5<br>⚙️ Framework BANT, demo personalizzate, exec sponsor early<br><br>👤 VP Sales",
+      "flavor": "\"Chiudere tanti deal è bello. Chiuderli velocemente è meglio. Chiuderli bene è essenziale.\"",
+      "classe": "okr-review"
+    }
+  ]
+}

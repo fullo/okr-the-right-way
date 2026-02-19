@@ -1,0 +1,178 @@
+{
+  "titolo": "Esercizio 2: So-What Test - Speed Validation",
+  "sottotitolo": "Tre domande scomode. Un OKR. Passa il test o finisce nel cestino.",
+  "icona_esercizio": "🔍",
+  "carte": [
+    {
+      "titolo": "Quick Reference",
+      "icona": "📋",
+      "emoji": "📋",
+      "tipo": "Reference",
+      "testo": "<strong>1.</strong> NPS 30→50: PASSA ✓<br><strong>2.</strong> Qualità codice: NON PASSA ✗<br><strong>3.</strong> Implementare SSO: NON PASSA ✗<br><strong>4.</strong> Time-to-value 7gg→2gg: PASSA ✓<br><strong>5.</strong> Visibilità brand: NON PASSA ✗<br><strong>6.</strong> Espandere enterprise: PASSA ✓<br><strong>7.</strong> Fare più assunzioni: NON PASSA ✗<br><strong>8.</strong> Profittabilità: PASSA ✓<br><strong>9.</strong> Lanciare feature: NON PASSA ✗<br><strong>10.</strong> Ridurre churn: PASSA ✓<br><strong>11.</strong> Morale del team: NON PASSA ✗<br><strong>12.</strong> Dominare SEO: PASSA ✓",
+      "flavor": "\"Le risposte sono qui. Ma sapresti spiegare il perché a un CEO scettico?\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Istruzioni: Prima Passata (Cap. 5)",
+      "icona": "📜",
+      "emoji": "📜",
+      "tipo": "Istruzioni",
+      "testo": "<strong>Obiettivo:</strong> Validare OKR d'istinto — senza framework, solo buon senso.<br><br><strong>La domanda chiave:</strong><br>Leggi l'OKR. Chiediti: <em>questo KR causa davvero l'obiettivo?</em> Se domani il KR è al 100%, l'obiettivo è raggiunto?<br><br><strong>Come si gioca (20 min):</strong><br>1. <strong>Pair (12 min):</strong> Per ogni OKR, decidi d'istinto: PASSA ✓ o NON PASSA ✗<br>2. <strong>Table (8 min):</strong> Confronto con Quick Reference<br><br>⚠️ Non serve un metodo formale. Fidati del tuo giudizio.",
+      "flavor": "\"Se la tua pancia dice 'meh', probabilmente ha ragione. La teoria arriva dopo.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Istruzioni: Seconda Passata (dopo Cap. 6)",
+      "icona": "🔬",
+      "emoji": "🔬",
+      "tipo": "Istruzioni",
+      "testo": "<strong>Obiettivo:</strong> Rifare l'esercizio con il framework formale del So-What Test.<br><br><strong>Le 3 Domande Scomode:</strong><br>1️⃣ <em>Cosa succede se NON lo raggiungi?</em> → Se la risposta è 'niente di grave', non è un vero OKR.<br>2️⃣ <em>Cosa succede se LO raggiungi?</em> → Se non sai articolare l'impatto, stai misurando vanity.<br>3️⃣ <em>Con tutti i KR raggiunti, l'obiettivo è completo?</em> → Se no, mancano KR o l'obiettivo è troppo vago.<br><br><strong>Processo:</strong> Riprendi le stesse 12 carte. Applica le 3 domande a ogni OKR. Confronta con le risposte della prima passata.",
+      "flavor": "\"Ora hai il bisturi. Vediamo se cambia la diagnosi.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Soluzioni 1-3 (I Primi Test)",
+      "icona": "✅",
+      "emoji": "✅",
+      "tipo": "Soluzioni",
+      "testo": "<strong>1. NPS 30→50:</strong> PASSA ✓<br>NON raggiungi? Competitor ti supera. Raggiungi? Diventi leader. KR completi? Sì, misurano percezione cliente. <strong>Insight:</strong> NPS è leading indicator di crescita.<br><br><strong>2. Qualità codice:</strong> NON PASSA ✗<br>NON raggiungi? Nulla di visibile. Raggiungi? Il codice è pulito... e quindi? KR? Non misurano business outcome. <strong>Trap:</strong> Qualità è mezzo, non fine.<br><br><strong>3. Implementare SSO:</strong> NON PASSA ✗<br>È un progetto con deadline. NON raggiungi? Implementi dopo. Raggiungi? Hai implementato... ma funziona? <strong>Fix:</strong> 'Chiudere 15 deal enterprise grazie a SSO'.",
+      "flavor": "\"I primi 3 test: subito capisci chi ha capito cosa sono gli OKR.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Soluzioni 4-6",
+      "icona": "✅",
+      "emoji": "✅",
+      "tipo": "Soluzioni",
+      "testo": "<strong>4. Time-to-value 7gg→2gg:</strong> PASSA ✓<br>NON raggiungi? Churn esplode. Raggiungi? Retention sale. KR? Misurano esperienza utente reale. <strong>Winner:</strong> Velocità = conversione.<br><br><strong>5. Visibilità brand:</strong> NON PASSA ✗<br>NON raggiungi? Niente di grave. Raggiungi? Siamo più visibili... ma convertiamo? KR? Vanity metrics. <strong>Trap:</strong> Awareness senza revenue = spreco.<br><br><strong>6. Espandere enterprise:</strong> PASSA ✓<br>NON raggiungi? Restiamo SMB. Raggiungi? Cambiamo categoria. KR? Revenue, cycle time, win rate misurano successo. <strong>Strong OKR.**",
+      "flavor": "\"Scenari 4-6: quando il So-What Test separa visione da wishful thinking.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Soluzioni 7-9",
+      "icona": "✅",
+      "emoji": "✅",
+      "tipo": "Soluzioni",
+      "testo": "<strong>7. Fare più assunzioni:</strong> NON PASSA ✗<br>NON raggiungi? Assumiamo dopo. Raggiungi? Abbiamo 10 persone... che fanno cosa? KR? Contano teste non impatto. <strong>Fix:</strong> 'Ridurre delivery time del 60% grazie a team scaling'.<br><br><strong>8. Profittabilità:</strong> PASSA ✓<br>NON raggiungi? Moriamo. Raggiungi? Sopravviviamo e cresciamo. KR? MRR, costi, break-even sono chiari. <strong>Survival OKR.**<br><br><strong>9. Lanciare feature:</strong> NON PASSA ✗<br>Lanciare ≠ successo. NON raggiungi? Lanci dopo. Raggiungi? Hai lanciato... nessuno la usa? <strong>Fix:</strong> '40% utenti attivi usa nuova feature entro Q3'.",
+      "flavor": "\"Scenari 7-9: quando 'fatto' è solo metà della storia.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Soluzioni 10-12",
+      "icona": "✅",
+      "emoji": "✅",
+      "tipo": "Soluzioni",
+      "testo": "<strong>10. Ridurre churn:</strong> PASSA ✓<br>NON raggiungi? Business insostenibile. Raggiungi? Crescita sana possibile. KR? Churn, involuntary churn, retention misurano health. <strong>Critical OKR.**<br><br><strong>11. Morale del team:</strong> NON PASSA ✗<br>Troppo vago. NON raggiungi? Non lo sappiamo. Raggiungi? Forse sono felici? KR? Team building non misura outcome. <strong>Fix:</strong> 'eNPS da 20 a 40, turnover <10%'.<br><br><strong>12. Dominare SEO:</strong> PASSA ✓<br>NON raggiungi? Dipendenza da paid. Raggiungi? Crescita organica sostenibile. KR? Traffico + conversion misurano impatto business. <strong>Growth OKR.**",
+      "flavor": "\"Gli ultimi 3: dove capisci chi pensa a lungo termine vs chi vuole solo spuntare caselle.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Diventare il tool preferito (NPS 30→50)",
+      "icona": "1",
+      "emoji": "🏆",
+      "tipo": "OKR da Testare - PM",
+      "testo": "<strong>Obiettivo:</strong> Diventare il tool preferito per team remoti<br><strong>KR1:</strong> Aumentare NPS da 30 a 50<br><strong>KR2:</strong> Raggiungere 10.000 review positive su G2<br><strong>KR3:</strong> Ottenere 5 case study da clienti enterprise remoti",
+      "flavor": "\"Quando i clienti ti amano così tanto da scrivere recensioni senza che glielo chiedi, hai vinto.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Ridurre time-to-value da 7gg a 2gg",
+      "icona": "4",
+      "emoji": "⚡",
+      "tipo": "OKR da Testare - PM",
+      "testo": "<strong>Obiettivo:</strong> Ridurre il time-to-value per nuovi utenti<br><strong>KR1:</strong> Diminuire giorni da signup a first value da 7 a 2<br><strong>KR2:</strong> Aumentare % utenti che completano setup da 40% a 75%<br><strong>KR3:</strong> Retention D7 passa da 25% a 45%",
+      "flavor": "\"Quando un utente capisce subito perché ti ha scelto, la magia è fatta. Il resto è retention.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Migliorare la qualità del codice",
+      "icona": "2",
+      "emoji": "💻",
+      "tipo": "OKR da Testare - Dev",
+      "testo": "<strong>Obiettivo:</strong> Migliorare la qualità del codice<br><strong>KR1:</strong> Aumentare code coverage al 80%<br><strong>KR2:</strong> Ridurre code smells del 50%<br><strong>KR3:</strong> Fare code review su tutti i PR",
+      "flavor": "\"Code coverage alto e code smells bassi. Ma il codice serve ancora a qualcosa?\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Espandere nel mercato enterprise",
+      "icona": "6",
+      "emoji": "🏢",
+      "tipo": "OKR da Testare - Sales",
+      "testo": "<strong>Obiettivo:</strong> Espandere nel mercato enterprise<br><strong>KR1:</strong> Chiudere 15 deal >€50k ARR<br><strong>KR2:</strong> Ridurre sales cycle da 6 a 3 mesi<br><strong>KR3:</strong> Revenue da enterprise passa da 20% a 45% del totale",
+      "flavor": "\"Enterprise è dove i deal sono grossi, lenti, e dolorosi. Ma quando chiudi, senti gli angeli cantare.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Aumentare la visibilità del brand",
+      "icona": "5",
+      "emoji": "📢",
+      "tipo": "OKR da Testare - Marketing",
+      "testo": "<strong>Obiettivo:</strong> Aumentare la visibilità del brand<br><strong>KR1:</strong> Ottenere 50 menzioni su blog di settore<br><strong>KR2:</strong> Pubblicare 30 contenuti<br><strong>KR3:</strong> Crescere follower social del 20%",
+      "flavor": "\"Visibilità senza conversione è come gridare nel vuoto. Almeno nel vuoto non paghi per le ads.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Implementare l'autenticazione SSO",
+      "icona": "3",
+      "emoji": "🔐",
+      "tipo": "OKR da Testare - Dev",
+      "testo": "<strong>Obiettivo:</strong> Implementare l'autenticazione SSO<br><strong>KR1:</strong> Completare integrazione con 3 provider<br><strong>KR2:</strong> Documentare processo per admin<br><strong>KR3:</strong> Fare onboarding a 10 clienti enterprise",
+      "flavor": "\"Questo non è un OKR, è un progetto con una data di scadenza e una checklist. Leggermente diverso.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Diventare profittevoli",
+      "icona": "8",
+      "emoji": "💰",
+      "tipo": "OKR da Testare - C-level",
+      "testo": "<strong>Obiettivo:</strong> Raggiungere la profittabilità<br><strong>KR1:</strong> Aumentare MRR da €200k a €500k<br><strong>KR2:</strong> Ridurre costi operativi del 30%<br><strong>KR3:</strong> Raggiungere break-even entro Q4",
+      "flavor": "\"Profitto: quella cosa strana che succede quando guadagni più di quanto spendi. Chi l'avrebbe mai detto.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Fare più assunzioni",
+      "icona": "7",
+      "emoji": "👥",
+      "tipo": "OKR da Testare - HR",
+      "testo": "<strong>Obiettivo:</strong> Fare più assunzioni<br><strong>KR1:</strong> Assumere 10 persone<br><strong>KR2:</strong> Ridurre time-to-hire a 30 giorni<br><strong>KR3:</strong> Aumentare candidate pipeline del 50%",
+      "flavor": "\"Assumere per assumere è come mangiare per mangiare. A un certo punto devi chiederti: perché lo sto facendo?\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Ridurre il churn a livelli sostenibili",
+      "icona": "10",
+      "emoji": "🚪",
+      "tipo": "OKR da Testare - C-level",
+      "testo": "<strong>Obiettivo:</strong> Ridurre il churn a livelli sostenibili<br><strong>KR1:</strong> Churn rate passa da 15% a 5% MoM<br><strong>KR2:</strong> Ridurre involuntary churn (pagamenti falliti) del 70%<br><strong>KR3:</strong> Aumentare retention rate a 12 mesi da 50% a 75%",
+      "flavor": "\"Un churn al 5% non è solo sostenibile. È il momento in cui finalmente dormi la notte.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Lanciare una nuova feature",
+      "icona": "9",
+      "emoji": "🚀",
+      "tipo": "OKR da Testare - PM",
+      "testo": "<strong>Obiettivo:</strong> Lanciare la feature di collaboration<br><strong>KR1:</strong> Rilasciare in produzione entro fine Q2<br><strong>KR2:</strong> Formare il team support<br><strong>KR3:</strong> Documentare tutte le API",
+      "flavor": "\"Lanciare non è un outcome, è un output con fuochi d'artificio. Bella la cerimonia, ma poi?\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Migliorare il team morale",
+      "icona": "11",
+      "emoji": "😊",
+      "tipo": "OKR da Testare - HR",
+      "testo": "<strong>Obiettivo:</strong> Migliorare il morale del team<br><strong>KR1:</strong> Survey di soddisfazione trimestrale<br><strong>KR2:</strong> Organizzare 2 team building<br><strong>KR3:</strong> Implementare flexible working",
+      "flavor": "\"'Migliorare il morale' suona bene finché ti accorgi che non hai modo di sapere se è migliorato davvero.\"",
+      "classe": "okr-sowhat"
+    },
+    {
+      "titolo": "Dominare la SEO del settore",
+      "icona": "12",
+      "emoji": "🔍",
+      "tipo": "OKR da Testare - Marketing",
+      "testo": "<strong>Obiettivo:</strong> Dominare la SEO del nostro settore<br><strong>KR1:</strong> Posizionare 20 keyword strategiche in top 3<br><strong>KR2:</strong> Traffico organico passa da 10k a 50k/mese<br><strong>KR3:</strong> Conversion da organico aumenta da 2% a 5%",
+      "flavor": "\"SEO è l'unico posto dove essere primi conta davvero. Il secondo è solo il primo dei perdenti.\"",
+      "classe": "okr-sowhat"
+    }
+  ]
+}

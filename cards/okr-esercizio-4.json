@@ -1,0 +1,160 @@
+{
+  "titolo": "Esercizio 4: Il Mio Primo OKR Personale",
+  "sottotitolo": "Smetti di pensare, inizia a scrivere. Queste carte sono la tua rete di sicurezza.",
+  "icona_esercizio": "✍️",
+  "carte": [
+    {
+      "titolo": "Quick Reference - Checklist Completa",
+      "icona": "📋",
+      "emoji": "📋",
+      "tipo": "Reference",
+      "testo": "<strong>OBIETTIVO:</strong> Aspirazionale, qualitativo, time-bounded, chiaro, passa So-What Test<br><br><strong>KEY RESULTS:</strong> SMART, outcome non output, con accountable, ambiziosi (70-80% o 30-40%)<br><br><strong>EVITA:</strong> Task camuffati, vanity metrics",
+      "flavor": "\"Tutto quello che ti serve in una carta. Ora non hai più scuse.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "I 5 Superpoteri degli OKR",
+      "icona": "⚡",
+      "emoji": "⚡",
+      "tipo": "Reference",
+      "testo": "<strong>Il tuo OKR attiva questi superpoteri?</strong><br><br>🎯 <strong>Focus:</strong> Ti concentri su ciò che conta davvero?<br>🔗 <strong>Alignment:</strong> Si collega a obiettivi di team/azienda?<br>📊 <strong>Tracking:</strong> Puoi monitorare progressi facilmente?<br>🚀 <strong>Stretch:</strong> Ti spinge oltre la comfort zone?<br>💰 <strong>Budgeting:</strong> Hai risorse necessarie o puoi ottenerle?<br><br><strong>Obiettivo minimo:</strong> 3 su 5 attivati",
+      "flavor": "\"Se il tuo OKR non attiva almeno 3 superpoteri, probabilmente è un task camuffato.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Spiegazione Esercizio",
+      "icona": "📜",
+      "emoji": "📜",
+      "tipo": "Istruzioni",
+      "testo": "<strong>Obiettivo:</strong> Scrivere il TUO OKR personale per il prossimo trimestre.<br><br><strong>Come si gioca (45 min):</strong><br>1. <strong>Solo (20 min):</strong> Scrivi 1 Obiettivo + 3 Key Results usando le carte Checklist<br>2. <strong>Pair (20 min):</strong> Peer review reciproca applicando le checklist<br>3. <strong>Volontari (5 min):</strong> 3-4 condividono in plenaria",
+      "flavor": "\"Scrivere il proprio OKR è come togliersi un cerotto. Fa male, ma dopo ti senti meglio.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Esempio 1: OKR Dev (Roofshot)",
+      "icona": "✅",
+      "emoji": "💻",
+      "tipo": "Esempio Completo",
+      "testo": "<strong>Obiettivo:</strong> Diventare un riferimento tecnico per il team su architetture scalabili<br><br><strong>KR1:</strong> Condurre 3 tech talk interni su microservices con feedback >8/10<br><strong>KR2:</strong> Ridurre incident critici del 60% grazie a migliore design system<br><strong>KR3:</strong> 80% del team adotta pattern architetturali proposti in nuovi progetti<br><br><strong>Perché funziona:</strong> Aspirazionale, misurabile, impattante, 70% raggiungibile. Ha So-What Test forte.",
+      "flavor": "\"Un OKR che ti fa crescere tecnicamente E migliora il team. Win-win.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Esempio 2: OKR PM (Moonshot)",
+      "icona": "✅",
+      "emoji": "🚀",
+      "tipo": "Esempio Completo",
+      "testo": "<strong>Obiettivo:</strong> Trasformare il nostro prodotto nel tool #1 per remote team<br><br><strong>KR1:</strong> NPS passa da 30 a 60 (industry leader level)<br><strong>KR2:</strong> 5 Fortune 500 companies diventano case study pubblici<br><strong>KR3:</strong> Organic growth rate aumenta del 200% (da 10% a 30% MoM)<br><br><strong>Perché è Moonshot:</strong> Ambizioso, probabilmente 40% raggiungibile. Ma se raggiungi 60%? Game changer.",
+      "flavor": "\"Un moonshot che spaventa. Se non ti spaventa, non è abbastanza ambizioso.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Esempio 3: OKR Marketing (Roofshot)",
+      "icona": "✅",
+      "emoji": "📈",
+      "tipo": "Esempio Completo",
+      "testo": "<strong>Obiettivo:</strong> Costruire un motore di lead generation prevedibile e scalabile<br><br><strong>KR1:</strong> Portare lead qualificati da 200 a 500/mese mantenendo CAC <€40<br><strong>KR2:</strong> Conversion lead-to-opportunity sale dal 12% al 25%<br><strong>KR3:</strong> 60% dei lead proviene da canali owned (SEO, email, community)<br><br><strong>Perché funziona:</strong> Quantità + qualità + sostenibilità. Misura tutto il funnel.",
+      "flavor": "\"Lead che convertono a costo prevedibile. Il sogno di ogni marketer, fatto OKR.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Esempio 4: OKR C-level (Strategico)",
+      "icona": "✅",
+      "emoji": "🎯",
+      "tipo": "Esempio Completo",
+      "testo": "<strong>Obiettivo:</strong> Rendere l'azienda sostenibile e pronta per crescita esponenziale<br><br><strong>KR1:</strong> Raggiungere break-even e mantenere runway >18 mesi<br><strong>KR2:</strong> Churn scende dal 10% al 4% (sustainable SaaS level)<br><strong>KR3:</strong> Net revenue retention passa da 90% a 110% (expansion > churn)<br><br><strong>Perché è Strategico:</strong> Combina survival + growth. Foundation per tutto.",
+      "flavor": "\"Quando il CEO dorme la notte perché i numeri sono sani. Questo è l'outcome.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Checklist Obiettivo (1/3)",
+      "icona": "1",
+      "emoji": "🎯",
+      "tipo": "Checklist",
+      "testo": "<strong>Il tuo Obiettivo è:</strong><br><br>✅ <strong>Aspirazionale?</strong><br>Ti ispira? Ti fa venire voglia di lavorarci la mattina?<br><br>✅ <strong>Qualitativo?</strong><br>Non ha numeri dentro, descrive uno stato futuro desiderabile<br><br>✅ <strong>Time-bounded?</strong><br>Hai una scadenza chiara? (es. Q2 2025, entro 3 mesi)",
+      "flavor": "\"Se leggendolo non pensi 'wow, sarebbe figo', probabilmente non è abbastanza ambizioso.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Checklist Obiettivo (2/3)",
+      "icona": "2",
+      "emoji": "🔍",
+      "tipo": "Checklist",
+      "testo": "<strong>Il tuo Obiettivo è:</strong><br><br>✅ <strong>Chiaro?</strong><br>Se lo rileggi tra 3 mesi, capisci ancora cosa volevi?<br><br>✅ <strong>Allineato?</strong><br>Si collega a un obiettivo di team o aziendale?<br><br>✅ <strong>Nel tuo controllo?</strong><br>Non dipende totalmente da fattori esterni o da altre persone?",
+      "flavor": "\"Un obiettivo vago è come una destinazione nebbiosa. Parti, ma non sai se arrivi.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Checklist Obiettivo (3/3) - So-What",
+      "icona": "3",
+      "emoji": "🤔",
+      "tipo": "Checklist",
+      "testo": "<strong>Applica il So-What Test:</strong><br><br>❓ <strong>Se NON lo raggiungi:</strong><br>Cosa succede? Se la risposta è 'niente di grave', ripensalo<br><br>❓ <strong>Se lo raggiungi:</strong><br>Cosa cambia concretamente? Se la risposta è 'poco', ripensalo<br><br>❓ <strong>Con tutti i KR completi:</strong><br>L'obiettivo è davvero raggiunto o manca qualcosa?",
+      "flavor": "\"Se il So-What Test ti fa sudare freddo, ottimo. Le domande scomode funzionano.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Checklist Key Results (1/3) - SMART",
+      "icona": "4",
+      "emoji": "📊",
+      "tipo": "Checklist",
+      "testo": "<strong>Ogni Key Result è SMART?</strong><br><br>✅ <strong>Specific:</strong> Chi fa cosa esattamente?<br>✅ <strong>Measurable:</strong> C'è un numero chiaro da raggiungere?<br>✅ <strong>Achievable:</strong> Difficile ma possibile con impegno?<br>✅ <strong>Relevant:</strong> Porta davvero all'obiettivo?<br>✅ <strong>Time-bound:</strong> Quando finisce esattamente?",
+      "flavor": "\"SMART non è un acronimo carino. È l'unica cosa che separa un KR da un desiderio di Capodanno.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Checklist Key Results (2/3) - Outcome",
+      "icona": "5",
+      "emoji": "🎪",
+      "tipo": "Checklist",
+      "testo": "<strong>I tuoi KR sono Outcome o Output?</strong><br><br>✅ <strong>Outcome (SÌ)</strong><br>'Ridurre churn dal 10% al 5%'<br>'NPS passa da 30 a 50'<br>'Conversion rate sale del 15%'<br><br>❌ <strong>Output (NO)</strong><br>'Rilasciare 5 feature'<br>'Fare 100 demo'<br>'Scrivere 20 articoli'",
+      "flavor": "\"Se il tuo KR è 'fare X cose', stai contando le ore di palestra invece di pesarti sulla bilancia.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Checklist Key Results (3/3) - Ambizione",
+      "icona": "6",
+      "emoji": "🚀",
+      "tipo": "Checklist",
+      "testo": "<strong>Quanto sono ambiziosi?</strong><br><br>🎯 <strong>Roofshot (70-80%):</strong><br>Impegnativo ma realistico. Tipico per OKR operativi. Se raggiungi 100% sei contento ma non sorpreso.<br><br>🌙 <strong>Moonshot (30-40%):</strong><br>Molto ambizioso, forse impossibile. Tipico per OKR innovativi. Se raggiungi 60% sei un eroe.<br><br><strong>Domanda chiave:</strong><br>Raggiungerli al 100% ti sorprenderebbe positivamente?",
+      "flavor": "\"Se i tuoi KR ti fanno dire 'easy', alza l'asticella. Se ti fanno piangere, abbassala un po'.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Anti-Pattern 1: Task Camuffati",
+      "icona": "7",
+      "emoji": "🚫",
+      "tipo": "Anti-Pattern",
+      "testo": "<strong>Questi NON sono OKR:</strong><br><br>❌ 'Implementare SSO entro Q2'<br>❌ 'Completare il redesign del sito'<br>❌ 'Assumere 5 persone'<br>❌ 'Rilasciare la versione 2.0'<br>❌ 'Migrare a AWS'<br><br><strong>Perché no?</strong><br>Sono progetti con task chiare e deadline. Non misurano un outcome del business. Successo binario: fatto/non fatto.",
+      "flavor": "\"Se puoi spuntare 'completato' senza chiederti se è servito a qualcosa, non è un OKR.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Anti-Pattern 2: Metriche Vanitose",
+      "icona": "8",
+      "emoji": "💭",
+      "tipo": "Anti-Pattern",
+      "testo": "<strong>Attento alle Vanity Metrics:</strong><br><br>❌ 'Aumentare follower social del 50%'<br>❌ 'Ottenere 1M pageviews'<br>❌ 'Pubblicare 30 articoli'<br>❌ 'Raggiungere 500 download'<br><br><strong>Perché no?</strong><br>Numeri che crescono senza dirti se stai vincendo. Meglio: conversion rate, retention, revenue, NPS.",
+      "flavor": "\"Puoi avere un milione di follower e zero clienti. È come essere famosi per essere famosi.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Anti-Pattern 3: Troppo Vago",
+      "icona": "9",
+      "emoji": "🌫️",
+      "tipo": "Anti-Pattern",
+      "testo": "<strong>Obiettivi vaghi da evitare:</strong><br><br>❌ 'Migliorare la qualità del prodotto'<br>❌ 'Aumentare la soddisfazione cliente'<br>❌ 'Ottimizzare i processi interni'<br>❌ 'Potenziare il team'<br><br><strong>Perché no?</strong><br>'Migliorare' e 'aumentare' senza numeri = fuffa. Come misuri se hai avuto successo? Non puoi.",
+      "flavor": "\"'Migliorare' è il verbo preferito di chi ha paura di impegnarsi su numeri concreti.\"",
+      "classe": "okr-kit-personale"
+    },
+    {
+      "titolo": "Anti-Pattern 4: Fuori Controllo",
+      "icona": "10",
+      "emoji": "🎲",
+      "tipo": "Anti-Pattern",
+      "testo": "<strong>OKR troppo dipendenti da fattori esterni:</strong><br><br>❌ 'Vincere il premio Best Product 2025'<br>❌ 'Diventare virali su TikTok'<br>❌ 'Essere acquisiti da Google'<br>❌ 'Convincere il board ad approvare il budget'<br><br><strong>Perché no?</strong><br>Non hai controllo sul risultato. Dipende da giurie, algoritmi, terze parti. Non è nel tuo cerchio di influenza.",
+      "flavor": "\"Se il successo dipende da forze che non controlli, stai giocando alla lotteria, non facendo OKR.\"",
+      "classe": "okr-kit-personale"
+    }
+  ]
+}

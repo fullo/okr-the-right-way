@@ -1,0 +1,88 @@
+{
+  "titolo": "Esercizio 3: OKR Review - Spot the Red Flags",
+  "sottotitolo": "È metà trimestre. Gli OKR sembrano ok. Ma guarda meglio. Qualcosa non quadra.",
+  "icona_esercizio": "🚩",
+  "carte": [
+    {
+      "titolo": "Quick Reference - Red Flags Comuni",
+      "icona": "📋",
+      "emoji": "📋",
+      "tipo": "Reference",
+      "testo": "<strong>Red Flags da cercare:</strong><br>🚩 Task camuffati da KR ('provare', 'identificare', 'implementare')<br>🚩 Output invece di Outcome<br>🚩 Trust level basso senza azioni correttive<br>🚩 KR non misurano l'obiettivo<br>🚩 Metriche vanity (follower, pageviews)<br>🚩 Troppe iniziative, nessun focus<br>🚩 Nessun progresso ma 'tutto ok'<br>🚩 KR contraddittori tra loro",
+      "flavor": "\"In ogni review OKR ben fatta emerge almeno un red flag. Se non ne vedi nessuno, guarda meglio.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "Spiegazione Esercizio",
+      "icona": "📜",
+      "emoji": "📜",
+      "tipo": "Istruzioni",
+      "testo": "<strong>Obiettivo:</strong> Identificare problemi in report OKR a metà trimestre e proporre fix.<br><br><strong>Come si gioca (30 min):</strong><br>1. <strong>Lettura (5 min):</strong> Carta Azienda + Carta Scenario<br>2. <strong>Pesca (2 min):</strong> 3 carte OKR random dal mazzo dello scenario<br>3. <strong>Analisi (20 min):</strong> Identificate red flags, problemi, gestione fallace<br>4. <strong>Remediation (3 min):</strong> Se necessario, definite piano correttivo",
+      "flavor": "\"Review OKR è l'arte di fare domande scomode prima che diventino problemi costosi.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "Karma Inc. - Chi Siamo",
+      "icona": "🏢",
+      "emoji": "🏢",
+      "tipo": "Azienda",
+      "testo": "<strong>Karma Inc.</strong> - SaaS B2B (2 anni)<br>MRR: €200k | Runway: 12 mesi | Churn: 12%<br><br><strong>Team (25 persone):</strong><br>• 10 Dev (3 senior, 7 mid/junior)<br>• 2 PM<br>• 3 Sales<br>• 2 Marketing | 2 Designer | 4 CS | 2 Ops<br><br><strong>Disponibile per OKR (60% team):</strong><br>6 Dev | 1 PM | 2 Sales | 1 Marketing | 1 Designer<br><br><strong>CEO:</strong> 'Dobbiamo scegliere bene. Non possiamo fare tutto.'",
+      "flavor": "\"Con 12 mesi di runway e churn alto, ogni scelta conta. Doppiamente.\"",
+      "classe": "okr-budget"
+    },
+    {
+      "titolo": "Scenario A: Trazione Positiva",
+      "icona": "📅",
+      "emoji": "📈",
+      "tipo": "Scenario Q2",
+      "testo": "<strong>Q2 Mid-Point (15 Maggio)</strong><br>MRR: €235k (+17.5%) | Churn: 10.5% (-1.5%)<br>Team: 27 (+2 designers) | Runway: 14 mesi<br><br><strong>Contesto:</strong> Chiuso AcmeCorp (€50k ARR). Board spinge su crescita e investimenti.<br><br><strong>Warning Signs:</strong> Early adopter retention 95%, new user retention 65%. Tempo onboarding 3→6 giorni. 4 feature Q1: 2 hanno adoption <15%.<br><br>🔗 <strong>QR Code:</strong> Analisi completa scenario",
+      "flavor": "\"Quando le cose vanno bene, è facile perdere la disciplina. I numeri positivi possono mascherare problemi nascenti.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR A1: Retention Nuovi Utenti",
+      "icona": "1",
+      "emoji": "🎯",
+      "tipo": "Product & Retention",
+      "testo": "<strong>OBJ:</strong> Retention nuovi utenti pari a early adopter<br><br><strong>KR1:</strong> D30 retention: 65%→90% (ora: 71%)<br>Trust: ALTA | 📅 13/5<br>⚙️ Onboarding personalizzato, check-in automatico, milestone celebrations<br><br><strong>KR2:</strong> Time-to-aha: 6gg→2gg (ora: 5gg)<br>Trust: MEDIA | 📅 14/5<br>⚙️ Setup wizard semplificato, tooltips contestuali, rimuovi 3 step inutili<br><br><strong>KR3:</strong> NPS D30: 41→60 (ora: 48)<br>Trust: MEDIA | 📅 15/5<br>⚙️ Survey automatica D30, fix top 5 friction, thank-you CEO<br><br>👤 Product Lead + Growth PM",
+      "flavor": "\"Early adopter sono indulgenti. I nuovi utenti no. O funziona subito, o se ne vanno.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR A2: Revenue Expansion",
+      "icona": "2",
+      "emoji": "💰",
+      "tipo": "Customer Success",
+      "testo": "<strong>OBJ:</strong> Revenue expansion clienti esistenti = 40% nuova crescita<br><br><strong>KR1:</strong> Upsell rate: 12%→35% (ora: 15%)<br>Trust: MEDIA | 📅 11/5<br>⚙️ Playbook upsell timing, feature comparison tool, success story video<br><br><strong>KR2:</strong> Account expansion: 8→25 (ora: 11)<br>Trust: BASSA | 📅 2/5<br>⚙️ QBR template, identify expansion signals, executive sponsor mapping<br><br><strong>KR3:</strong> Net revenue retention: 98%→115% (ora: 102%)<br>Trust: BASSA | 📅 28/4<br>⚙️ Cross-sell motion, usage analytics dashboard, proactive CS reach-out<br><br>👤 CS Director",
+      "flavor": "\"Acquisire è costoso. Espandere è efficiente. Se sai come farlo.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR A3: Feature Differenzianti",
+      "icona": "3",
+      "emoji": "🚀",
+      "tipo": "Product Development",
+      "testo": "<strong>OBJ:</strong> Lanciare 3 feature differenzianti per competere con FasterCo<br><br><strong>KR1:</strong> Feature lanciate: 0→3 (ora: 1 lanciata, 2 in dev)<br>Trust: ALTA | 📅 14/5<br>⚙️ Feature A in beta, feature B design finalized, feature C spec writing<br><br><strong>KR2:</strong> Feature adoption: target 60% utenti (ora: A al 23%)<br>Trust: MEDIA | 📅 12/5<br>⚙️ In-app banner, email campaign, tutorial video<br><br><strong>KR3:</strong> Press mention: 0→5 articoli (ora: 2 pubblicati)<br>Trust: ALTA | 📅 13/5<br>⚙️ PR outreach list, demo giornalisti, product launch post<br><br>👤 CPO + Product Marketing",
+      "flavor": "\"Lanciare feature è facile. Farle usare è difficile. Farle contare è l'arte.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR A4: Pipeline Mid-Market",
+      "icona": "4",
+      "emoji": "📊",
+      "tipo": "Sales & Pipeline",
+      "testo": "<strong>OBJ:</strong> Chiudere 15 deal mid-market per diversificare da enterprise<br><br><strong>KR1:</strong> Pipeline mid-market: €180k→€500k (ora: €420k)<br>Trust: ALTA | 📅 14/5<br>⚙️ Outbound 300 prospect, partnership agency, webinar series<br><br><strong>KR2:</strong> Demo-to-trial: 35%→55% (ora: 51%)<br>Trust: ALTA | 📅 13/5<br>⚙️ New demo script, ROI calculator, live success stories<br><br><strong>KR3:</strong> Trial-to-paid: 18%→30% (ora: 19%)<br>Trust: MEDIA | 📅 15/5<br>⚙️ Onboarding call D2, pricing page redesign, objection handling doc<br><br>👤 Sales Director",
+      "flavor": "\"Pipeline piena non significa cassa piena. Contano solo i deal chiusi.\"",
+      "classe": "okr-review"
+    },
+    {
+      "titolo": "OKR A5: Brand Awareness",
+      "icona": "5",
+      "emoji": "📢",
+      "tipo": "Marketing & Brand",
+      "testo": "<strong>OBJ:</strong> Brand awareness come competitor tier-1 nel segmento<br><br><strong>KR1:</strong> Organic traffic: 12k→30k/mese (ora: 24k)<br>Trust: ALTA | 📅 14/5<br>⚙️ 12 blog post pubblicati, SEO optimization, backlink outreach<br><br><strong>KR2:</strong> Social following: 2.8k→8k (ora: 6.2k)<br>Trust: ALTA | 📅 15/5<br>⚙️ LinkedIn thought leadership, Twitter engagement, influencer collab<br><br><strong>KR3:</strong> Brand search volume: +150% (ora: +95%)<br>Trust: MEDIA | 📅 13/5<br>⚙️ PR strategy, podcast appearances, community building<br><br>👤 Marketing Director",
+      "flavor": "\"Essere conosciuti è bello. Essere scelti è meglio. Misura cosa conta davvero.\"",
+      "classe": "okr-review"
+    }
+  ]
+}
